@@ -4,7 +4,7 @@
 ### Hidden Projects
 Some Projects (like my Website) are Private, to keep Copycats away.</br>
 If you are an Employer coming here from my Job-Application or Linked-In</br>
-and want to evaluate the code of it, please reach out to me with an E-Mail.
+and want to evaluate the code of it, please reach out to me via E-Mail.
 
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
