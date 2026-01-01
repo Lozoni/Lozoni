@@ -3,7 +3,7 @@
 
 # Hidden Projects
 Some Projects (like my Website) are Private, to keep Copycats away.</br>
-If you are an Employer wanting to look at the code of My Website,</br>
+If you are an Employer wanting to evaluate the code-quality of My Website,</br>
 please reach out via Discord or E-mail (on my Website) with proof of legitimacy.
 
 # Tech Stack:
