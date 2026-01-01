@@ -1,5 +1,5 @@
 # About Me:
-⚡ I’m a Fullstack Web & Software Developer.<br>💻 I use both Windows & Linux.<br>🌸 I love to watch Animes.<br>🕹️ I also play a lot of Games.
+⚡ I’m a Fullstack Web & Software Developer.<br>💻 I use both Windows & Linux.<br>🌸 I love to read Manga.<br>🕹️ I also play Switch 2 & Valorant.
 
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
@@ -8,7 +8,6 @@
 [![Bun](https://img.shields.io/badge/Bun-%232F3134?logo=bun&logoColor=fff)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%232F3134?logo=shadcnui&logoColor=white)](#)
-[![Three.js](https://img.shields.io/badge/Three.js-3178C6?logo=threedotjs&logoColor=fff)](#)
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
@@ -24,7 +23,6 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)](#)
 [![CouchDB](https://img.shields.io/badge/CouchDB-E42528?logo=apachecouchdb&logoColor=fff)](#)
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)](#)
 <br>
 [![WebStorm](https://img.shields.io/badge/WebStorm-%232F3134?logo=webstorm&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSC-0078d7.svg?logo=vsc&logoColor=white)](#)
