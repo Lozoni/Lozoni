@@ -2,7 +2,7 @@
 🌷 I’m a 27 y.o. (Trans) Girl from Germany.</br>⚡ I’m a Fullstack Web & Software Developer.<br>💻 I use both Windows & Linux.
 
 # Hidden Projects
-Some Projects (like my Website) is Private, to keep Copycats away.</br>
+Some Projects (like my Website) are Private, to keep Copycats away.</br>
 If you are an Employer wanting to look at the code of My Website,</br>
 please reach out via Discord or E-mail (on my Website) with proof ur legit.
 
