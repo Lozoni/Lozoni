@@ -15,7 +15,6 @@
 # Tech Stack:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-%232F3134?logo=next.js&logoColor=white)](#)
-[![Bun](https://img.shields.io/badge/Bun-%232F3134?logo=bun&logoColor=fff)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%232F3134?logo=shadcnui&logoColor=white)](#)
 [![Three.js](https://img.shields.io/badge/Three.js-3178C6?logo=threedotjs&logoColor=fff)](#)
@@ -23,6 +22,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
 [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white)](#)
+[![Bun](https://img.shields.io/badge/Bun-%232F3134?logo=bun&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 <br>
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
