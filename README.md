@@ -18,10 +18,7 @@
 [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)
 [![VB6](https://img.shields.io/badge/Visual%20Basic%206-blue?logoColor=white)](#)
 <br>
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)](#)
-[![CouchDB](https://img.shields.io/badge/CouchDB-E42528?logo=apachecouchdb&logoColor=fff)](#)
 <br>
 [![Rider](https://img.shields.io/badge/Rider-%232F3134?logo=rider&logoColor=fff)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
@@ -46,6 +43,10 @@
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=white)](#)
 [![Bun](https://img.shields.io/badge/Bun-%232F3134?logo=bun&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
+<br>
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![CouchDB](https://img.shields.io/badge/CouchDB-E42528?logo=apachecouchdb&logoColor=fff)](#)
 <br>
 [![WebStorm](https://img.shields.io/badge/WebStorm-%232F3134?logo=webstorm&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)](#)
