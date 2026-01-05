@@ -1,6 +1,6 @@
 # About Me:
 <div>
-<span>🌷 I’m a 27 y.o. (Trans) Girl from Germany.</span></br>
+<span>🌷 I’m a 27 y.o. Girl from Germany.</span></br>
 <span>⚡ I’m a Fullstack Web & Software Developer. (Always expanding my knowledge)</span></br>
 <span>💻 I use both Windows & Linux.</span>
 </div>
