@@ -7,9 +7,7 @@
 
 ### Hidden Projects
 <div>
-  <span>Some Projects (like my Website) are Private, to keep Copycats away.</span></br>
-  <span>If you are an Employer coming here from my Job-Application or LinkedIn</span></br>
-  <span>and want to evaluate the code of it, please reach out to me via E-Mail.</span>
+  <span>If you are an Employer and want to look at my Website Repo, reach out via E-Mail.</span></br>
 </div>
 
 # Tech Stack (Knowledge):
